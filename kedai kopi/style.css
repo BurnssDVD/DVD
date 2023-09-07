@@ -1,0 +1,9 @@
+:root{
+    --primary: #000;
+}
+
+*{
+    font-family: 'poppins' sans-serif;
+    margin: 0;
+    padding: 0;
+}
